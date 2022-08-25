@@ -16,11 +16,11 @@ on a common white board
 - Audio streaming 
 - Screen Share Feature
 - File Sharing, share any file to your participats in the room
-- Meeting Recording (Record your Screen, Webcam and Audio )
+//- Meeting Recording (Record your Screen, Webcam and Audio )
 - Chat with Emoji Picker to Show Your Feelings & Private Message & Save the Conversation 
-- Interactive Whiteboard 
+//- Interactive Whiteboard 
 - No download, plug-in or login required, entirely browser based
-- Easily take Snapshot 
-- Possibility to change Themes colour 
+//- Easily take Snapshot 
+//- Possibility to change Themes colour 
 - Optimized Room Url Sharing (share it to your participats, wait then to join)
 
